@@ -31,7 +31,7 @@ Will Implement Features (x86):
 
 How to run:
 - Install QEMU (https://www.qemu.org/download/)
-- git clone https://github.com/liveans/OperatingSystemEP
+- git clone https://github.com/softwaredevelopmenttr/OperatingSystemEP
 - cd OperatingSystemEP && make build-install
 
 References:
