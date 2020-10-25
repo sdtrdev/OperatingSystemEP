@@ -37,3 +37,5 @@ How to run:
 References:
 - https://wiki.osdev.org/Main_Page (Mostly)
 - https://github.com/danistefanovic/build-your-own-x (Operating System Part)
+
+Bu repodaki her şeyi izin almadan, kaynak göstermeden, özgürce okuyabilir, başkalarına okutabilir, kopyalayabilir, dağıtabilir, başka bir dile çevirebilir, yayabilir, eleştirebilir, kendi etik ilkeleriniz doğrultusunda, çalabilir, talan edebilir, kısmen ya da tamamen sahiplenebilir, satabilir, değiştirerek ya da değiştirmeden tekrar yayımlayabilir, kötüleyebilir, lanetleyebilirsiniz.
