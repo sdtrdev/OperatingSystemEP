@@ -28,3 +28,12 @@ Will Implement Features (x86):
 - HTTP Server, Client
 - Basic Browser
 - Maybe POSIX compatible things
+
+How to run:
+- Install QEMU (https://www.qemu.org/download/)
+- git clone https://github.com/liveans/OperatingSystemEP
+- cd OperatingSystemEP && make build-install
+
+References:
+- https://wiki.osdev.org/Main_Page (Mostly)
+- https://github.com/danistefanovic/build-your-own-x (Operating System Part)
